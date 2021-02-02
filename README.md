@@ -1,4 +1,4 @@
-# RollerBall (Unity + Jupyter Notebook)
+# RollerBall Demo (Unity + Jupyter Notebook)
 
 ## Setup and Dependencies
 - [Git-LFS](https://git-lfs.github.com/)
