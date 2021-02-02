@@ -1,5 +1,7 @@
 # RollerBall Demo (Unity + Jupyter Notebook)
 
+This repository includes all of the original [Unity ML-Agents Toolkit RollerBall demo's C# code](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Create-New.md) as well as Jupyter notebook that works with that C# code, receiving both vector observations and visual (camera) observations.
+
 ## Setup and Dependencies
 - [Git-LFS](https://git-lfs.github.com/)
   - Unity has many very large files (>50 MB) that don't play nicely with git, which was originally designed to handle only text files
